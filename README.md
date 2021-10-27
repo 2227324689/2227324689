@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 # 🍀个人简介
 
-![](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/WX20210926-103050@2x.png)
+<center>
+  <a target="_blank" rel="noopener external nofollow noreferrer" href="https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/WX20210926-103050@2x.png" data-fancybox="gallery" data-caption="" data-thumb="https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/WX20210926-103050@2x.png"><img src="https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/WX20210926-103050@2x.png" data-original="https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/WX20210926-103050@2x.png" data-lazy-src="https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/WX20210926-103050@2x.png" style="border-radius:50%;width:130px;height:auto" alt="Mic" data-ll-status="loaded" class="entered loaded">
+  </a>
+</center>
 
 Mic
 
